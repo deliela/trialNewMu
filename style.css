@@ -1,0 +1,174 @@
+body{
+padding-top: 60px;
+  padding-left: 60px;;
+  padding-right: 60px;
+  margin-top: 30px;
+  margin-left:30px;
+  margin-right:30px;
+  margin-bottom: 60px;
+}
+#background{
+  background:grey;
+}
+
+#smaller{
+  margin-top: 30px;
+  margin-left:30px;
+  margin-right:30px;
+}
+
+h1{ 
+  color:black;
+  font-size: 60px;
+  font-family: sons-serif;
+  
+}
+h2{
+  font-size:30px;
+  font-family: lobster;
+  color:#a54b6e;
+}
+h3{
+  font-size:20px;
+  font-family: lobster;
+}
+h6{
+  font-size: 12px;
+}
+p1{
+  font-size: 16px;
+}
+p2{
+  font-size: 16px;
+}
+p3{
+  font-size: 16px;
+}
+#pic{
+  margin-top: 10px;
+  margin-bottom: px;
+  padding-bottom: px;
+}
+
+#spic{
+  margin-top: px;
+  margin-right:px;
+  margin-bottom: px;
+  padding-bottom: px;
+}
+
+.relative {position:relative; width: 100%;
+margin-top: 10px;
+  padding-top: 10px;
+}
+.absolute-text { position:absolute;
+ bottom: 40px;
+  font-size:24px; font-family:"vedana";
+  padding-right:10px;
+  text-align: center;}
+.absolute-text {font-size:16px; color:black;
+  background:rgba(251,251,251,0.5)
+}
+.quete {
+ color:rgba(251,251,251,0.5);
+}
+
+.img-responsive1 {position: relative;
+  width: px; 
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+#img2{
+  height:100%;
+  margin-bottom: -10px;
+  
+}
+h5 {
+  position: absolute;
+  width: 100%;
+  margin-bottom{ 
+  10px;}
+}
+
+.img-responsive {
+  position: relative;
+   padding: 10px;
+  margin-bottom: -10px;
+  height: 100%;
+  
+}
+#absolute-text { 
+  position: absolute; bottom: 0;
+  font-size:24px; font-family:"vedana";
+padding: 3px 3px px 3px; 
+ margin: 4px 4px 4px 4px; width:100%;
+  text-align:center;}
+#absolute-text {font-size:16px; color:black;
+  background:rgba(251,251,251,0.5);
+}
+table {
+  border-COLOR:rgba(251,251,251,0.5);
+  font-size: 12px;
+  background-color:;
+  padding:3px 3px 0px 5px;
+  
+ 
+}
+.container-fluid{
+  background-color: #dfd0bf;
+  padding-top: 50px;
+  padding-left: 50px;;
+  padding-right: 50px;
+  
+}
+.imageContainer{  
+  align:center;
+  
+}
+.smallerline{
+  font-size:11px;
+  font-family: lobster;
+}
+h4{
+    font-size:20px;
+  font-family: lobster;
+}
+.intro{
+  color:#a54b6e;;
+}
+
+.record{
+    font-size:30px;
+  font-family: lobster;
+}
+.font-size2{
+  font-size: 30px;
+  font-family:lobster;
+}
+h7{
+  font-size:20px;
+  color:#360008
+}
+.center{
+  margin: center;
+  font-size:12px;
+  
+  
+}
+.first-quete{
+  font-size: 22px;
+  font-family:lobster;
+}
+.intro{
+  font-size: 16px;
+}
+.list{
+  font-size: 16px;
+}
+.smallerline{
+  font-size: 13px;
+}
+#bigger{ 
+font-size: 15px;
+}
